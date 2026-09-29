@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pixelify+Sans:wght@400..700&display=swap');
+body{
+     background-color:rgb(7, 0, 0) ;
+     text-align: center;
+     list-style-position: inside;
+       border: 3px dotted #37d459;
+  padding: 20px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+h1{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    color: rgb(232, 235, 235);
+}
+p{ 
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: 2rem;
+    line-height: 70px;
+   color: rgb(232, 235, 235); 
+}
+img{
+    width: auto;
+    height: 500px;
+}
